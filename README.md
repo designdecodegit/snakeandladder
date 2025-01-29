@@ -16,7 +16,7 @@ To run this game, ensure you have a C++ compiler installed on your system.
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/snake-and-ladder.git
+   git clone https://github.com/designdecodegit/snake-and-ladder.git
    ```
 2. Navigate to the project directory:
    ```sh
